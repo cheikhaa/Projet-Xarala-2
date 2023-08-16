@@ -1,0 +1,164 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+.navbar {
+    padding: 30px 0;
+    /* background-color: rgb(235, 235, 235); */
+}
+
+.navbar .nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 41px;  
+    color: gray;
+}
+
+.hero {
+    padding: 80px 0;
+}
+
+.hero .text {
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.hero .boutons {
+    padding-top: 90px;
+}
+
+.hero .btn {
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 26px;
+    color: rgb(43, 43, 199);
+}
+
+.hero .btn-primary {
+    background-color: rgb(0, 255, 0);
+}
+
+.w-100 {
+    -moz-border-radius:7px;
+    -webkit-border-radius:7px;
+    border-radius: 17px;
+}
+
+.img {
+    border: 1px solid #732934;
+    border-radius: 15px;
+}
+
+.ico {
+    width: 100px;
+    height: auto;
+}
+
+.Services {
+    padding: 280px 0;
+}
+
+.text-header h3 {
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 48px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text-header p {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 28px;
+    color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px 0;
+}
+
+.icons {
+    padding: 27px 0;
+}
+
+.desc h3 {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 35px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+}
+
+.desc p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    max-width: 284px;
+    color: gray;
+    margin: 0 auto;
+}
+
+.text-information {
+    padding: 100px 0;
+}
+
+.text-information h3 {
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 60px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 10px;
+}
+
+.text-information p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    max-width: 284px;
+    color: gray;
+    /* margin: 0 auto; */
+}
+
+.cv {
+    height: 70%;
+    width: 60%;
+}
+
+.sc {
+    padding-left: 55px;
+}
+
+.info-3 {
+    padding-top: 80px;
+}
+
+.info-3 .cv {
+    height: 100%;
+}
+
+.top .btn {
+    height: 60px;
+    width: 80px;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 20px;
+    bottom: 20px;
+    cursor: pointer;
+}
+
+.top .btn:hover{
+    background-color: rgb(56, 255, 56);
+}
+
+.icone {
+    width: 50px;
+}
+
+.vv {
+    height: 110%;
+}
